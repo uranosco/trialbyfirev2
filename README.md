@@ -1,2 +1,2 @@
 # trialbyfirev2
-a simple site deployment with GitHub pages.
+A simple site deployment with GitHub pages.
